@@ -62,7 +62,7 @@ p {
     transition: background-color 1.5s, color 1.5s;
 }
 
-.btn:hover {
+.hero-text button:hover {
     background-color: black;
     color: white;
 }
