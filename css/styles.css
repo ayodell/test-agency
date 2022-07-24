@@ -62,6 +62,11 @@ p {
     transition: background-color 1.5s, color 1.5s;
 }
 
+.btn:hover {
+    background-color: black;
+    color: white;
+}
+
 .hero-image {
     display: inline-block;
 }
