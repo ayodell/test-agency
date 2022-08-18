@@ -37,6 +37,10 @@ button {
     padding: 1% 8%;
 }
 
+.navbar {
+    padding: 0;
+}
+
 .logo {
     width: 30%;
 }
