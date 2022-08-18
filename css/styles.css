@@ -51,7 +51,7 @@ button {
 /* Title Section */
 
 .title-text-container {
-    padding: 10% 5% 0 5%;
+    padding: 7% 5% 0 5%;
 }
 
 .title-image-container {
@@ -62,7 +62,7 @@ button {
 /* Headings */
 
 .big-heading {
-    font-size: 5rem;
+    font-size: 4.5rem;
     font-weight: 800;
 }
 
